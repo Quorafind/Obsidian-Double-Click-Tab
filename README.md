@@ -32,6 +32,9 @@ folder `{{obsidian_vault}}/.obsidian/plugins/obsidian-double-click-tab`.
 # Say Thank You
 
 If you are enjoying this plugin then please support my work and enthusiasm by buying me a coffee
-on [https://www.buymeacoffee.com/boninall](https://www.buymeacoffee.com/boninall).
+on [https://www.buymeacoffee.com/boninall](https://www.buymeacoffee.com/boninall)
+, [微信](https://cdn.jsdelivr.net/gh/Quorafind/.github@main/IMAGE/%E5%BE%AE%E4%BF%A1%E4%BB%98%E6%AC%BE%E7%A0%81.jpg)
+或 [支付宝](https://cdn.jsdelivr.net/gh/Quorafind/.github@main/IMAGE/%E6%94%AF%E4%BB%98%E5%AE%9D%E4%BB%98%E6%AC%BE%E7%A0%81.jpg)
+.
 
 <a href="https://www.buymeacoffee.com/boninall"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=boninall&button_colour=6495ED&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"></a>
