@@ -4,9 +4,15 @@ A plugin to modify the default behavior when you double click on the tab title, 
 
 ## Features
 
-- Close tab when double click on the tab title.
-- Open the file in new pane when double click on the tab title.
-- Rename current file when double click on the tab title.
+You can set the default behavior in plugin settings.
+
+- Close Tab: Close tab when double click on the tab title.
+- Smart Tab: Open the file in new pane when double click on the tab title.
+	- Shift + Double Click = Open the file in New Window.
+	- Ctrl + Double Click = Open the file in New Pane Vertically.
+	- Alt + Double Click = Open the file in New Pane Horizontally.
+	- If you don't hold any key, it will close the tab.
+- Rename File: Rename current file when double click on the tab title.
 
 # How to Install
 
