@@ -28,7 +28,7 @@ export default class DblClickTabPlugin extends Plugin {
 
 		const activeLeaf = app.workspace.activeLeaf;
 
-		if (!(evt.target as HTMLElement).classList.contains("workspace-tab-header-inner-title") && !activeLeaf) return;
+		if (!(evt.target as HTMLElement).classList.contains("workspace-tab-header-inner-title") || !activeLeaf) return;
 		// @ts-ignore
 		const side = activeLeaf.getRoot().side;
 
