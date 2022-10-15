@@ -1,8 +1,8 @@
 {
 	"id": "obsidian-double-click-tab",
 	"name": "Double Click Tab",
-	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
+	"version": "1.1.0",
+	"minAppVersion": "0.16.0",
 	"description": "A plugin to modify the default behavior when you double click on the tab title, like close tab.",
 	"author": "Boninall",
 	"authorUrl": "https://github.com/Quorafind",
