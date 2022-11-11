@@ -6,3 +6,45 @@ available in the app when your plugin is enabled.
 If your plugin does not need CSS, delete this file.
 
 */
+
+.show-title-bar-button .titlebar-button-container.mod-right {
+	width: var(--frame-right-space);
+	transition: width 275ms var(--anim-motion-swing);
+}
+
+.titlebar-button-container.mod-right {
+	width: var(--size-4-2);
+	transition: width 275ms var(--anim-motion-swing);
+}
+
+.is-hidden-frameless:not(.is-fullscreen) .workspace-tabs.mod-top-right-space .workspace-tab-header-container {
+	padding-right: var(--size-4-2);
+}
+
+.show-title-bar-button.is-hidden-frameless:not(.is-fullscreen) .workspace-tabs.mod-top-right-space .workspace-tab-header-container {
+	padding-right: var(--frame-right-space);
+}
+
+.dbl-donate-button {
+	height: auto;
+	width: auto;
+	padding: 0;
+}
+
+.dbl-donate-button a {
+	height: 50px;
+	width: auto;
+	padding: 0;
+}
+
+svg.svg-icon.alipay {
+	height: 50px;
+	width: 50px;
+	padding: 0;
+}
+
+svg.svg-icon.wechat {
+	height: 50px;
+	width: 50px;
+	padding: 3px;
+}

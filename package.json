@@ -1,6 +1,6 @@
 {
-	"name": "obsidian-double-click-tab",
-	"version": "1.1.2",
+	"name": "double-click-tab",
+	"version": "1.1.3",
 	"description": "A plugin to modify the default behavior when you double click on the tab title, like close tab.",
 	"main": "main.js",
 	"scripts": {
